@@ -7,5 +7,7 @@
 !*.pptm
 !*.md
 !*.pages
+!*.jpg
+!*.png
 !*/
 .ipynb_checkpoints/
